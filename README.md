@@ -1,1 +1,1 @@
-Updated README file for automationds
+Updated README file for automationdsc
