@@ -1,4 +1,4 @@
-hkhkcffgkjbxfsfdfxxcfdfdgxdggcxm,njkjk,mn,jmhbhkjbjmhknj# [:] Example Node Projectdxrgh
+hkhkcffgkjbxfsfdfxxcfdfdgxdggcxm,njkjk,mn,jmhbhkjbjmhknj# [:] Example Node Projectdxrghh
 An example node project to demonstrate [srcclr](https://www.srcclr.com) scans......////////,,,,,,l.lll,,,,///;;...,.c.
 cc..
 ## Try me!d
