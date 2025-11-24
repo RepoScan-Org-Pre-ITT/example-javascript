@@ -1,2 +1,1 @@
-Updated README file for automationdscc
-cc
+Updated README file for automation
